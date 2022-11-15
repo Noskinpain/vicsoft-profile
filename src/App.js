@@ -13,9 +13,7 @@ function App() {
     <>
       <Router>
        <NavBar/>
-     <AnimatedRoutes/>
-     
-     
+       <AnimatedRoutes/>
       </Router>
     </>
   );
